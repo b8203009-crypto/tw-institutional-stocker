@@ -651,6 +651,20 @@
     "change": 0.0
   },
   {
+    "code": "00771",
+    "name": "元大US高息特別股",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "00775B",
+    "name": "新光投等債15+",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
     "code": "00783",
     "name": "富邦中証500",
     "market": "TWSE",
@@ -1274,22 +1288,15 @@
     "change": 0.0
   },
   {
-    "code": "01004T",
-    "name": "土銀富邦R2",
+    "code": "01001T",
+    "name": "土銀富邦R1",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
   },
   {
-    "code": "01009T",
-    "name": "王道圓滿R1",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "01010T",
-    "name": "京城樂富R1",
+    "code": "01002T",
+    "name": "土銀國泰R1",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1297,6 +1304,13 @@
   {
     "code": "02001L",
     "name": "富邦蘋果正二N",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "02001R",
+    "name": "富邦蘋果反一N",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1381,20 +1395,6 @@
   {
     "code": "1215",
     "name": "卜蜂",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "1216",
-    "name": "統一",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "1217",
-    "name": "愛之味",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
