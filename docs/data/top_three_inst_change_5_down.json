@@ -392,13 +392,6 @@
     "change": 0.0
   },
   {
-    "code": "00684R",
-    "name": "期元大美元指反1",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
     "code": "00685L",
     "name": "群益臺灣加權正2",
     "market": "TWSE",
@@ -1288,15 +1281,22 @@
     "change": 0.0
   },
   {
-    "code": "01001T",
-    "name": "土銀富邦R1",
+    "code": "01002T",
+    "name": "土銀國泰R1",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
   },
   {
-    "code": "01002T",
-    "name": "土銀國泰R1",
+    "code": "01009T",
+    "name": "王道圓滿R1",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "01010T",
+    "name": "京城樂富R1",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
