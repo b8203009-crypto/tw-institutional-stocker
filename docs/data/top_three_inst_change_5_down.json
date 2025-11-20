@@ -14,13 +14,6 @@
     "change": 0.0
   },
   {
-    "code": "0052",
-    "name": "富邦科技",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
     "code": "0053",
     "name": "元大電子",
     "market": "TWSE",
@@ -658,13 +651,6 @@
     "change": 0.0
   },
   {
-    "code": "00775B",
-    "name": "新光投等債15+",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
     "code": "00783",
     "name": "富邦中証500",
     "market": "TWSE",
@@ -1288,15 +1274,8 @@
     "change": 0.0
   },
   {
-    "code": "01002T",
-    "name": "土銀國泰R1",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "01004T",
-    "name": "土銀富邦R2",
+    "code": "01001T",
+    "name": "土銀富邦R1",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1395,6 +1374,27 @@
   {
     "code": "1215",
     "name": "卜蜂",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "1216",
+    "name": "統一",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "1217",
+    "name": "愛之味",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "1218",
+    "name": "泰山",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
