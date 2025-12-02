@@ -420,6 +420,13 @@
     "change": 0.0
   },
   {
+    "code": "00689R",
+    "name": "國泰20年美債反1",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
     "code": "00690",
     "name": "兆豐藍籌30",
     "market": "TWSE",
@@ -651,6 +658,13 @@
     "change": 0.0
   },
   {
+    "code": "00775B",
+    "name": "新光投等債15+",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
     "code": "00783",
     "name": "富邦中証500",
     "market": "TWSE",
@@ -667,6 +681,13 @@
   {
     "code": "00850",
     "name": "元大臺灣ESG永續",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "00851",
+    "name": "台新全球AI",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1267,6 +1288,13 @@
     "change": 0.0
   },
   {
+    "code": "01009T",
+    "name": "王道圓滿R1",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
     "code": "01010T",
     "name": "京城樂富R1",
     "market": "TWSE",
@@ -1290,13 +1318,6 @@
   {
     "code": "1101",
     "name": "台泥",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "1101B",
-    "name": "台泥乙特",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1374,27 +1395,6 @@
   {
     "code": "1216",
     "name": "統一",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "1217",
-    "name": "愛之味",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "1218",
-    "name": "泰山",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "1219",
-    "name": "福壽",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
