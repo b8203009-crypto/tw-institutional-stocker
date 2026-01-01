@@ -823,5 +823,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.734737024878044,
     "three_inst_ratio_change_20": -1.6780640040356865
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2382",
+    "name": "廣達",
+    "market": "TWSE",
+    "foreign_ratio": 21.59,
+    "trust_ratio": 0.21733936673393356,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.807339366733935,
+    "three_inst_ratio_change_20": -1.81353162282414
   }
 ]

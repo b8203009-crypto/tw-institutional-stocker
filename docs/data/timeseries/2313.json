@@ -823,5 +823,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 34.637666909645915,
     "three_inst_ratio_change_20": -2.943380345344906
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2313",
+    "name": "華通",
+    "market": "TWSE",
+    "foreign_ratio": 32.21,
+    "trust_ratio": 2.071793542408756,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 34.28179354240876,
+    "three_inst_ratio_change_20": -3.0557144165429406
   }
 ]

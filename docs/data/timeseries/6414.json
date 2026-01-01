@@ -823,5 +823,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.624785756434576,
     "three_inst_ratio_change_20": 0.8272639932668184
+  },
+  {
+    "date": "2025-12-31",
+    "code": "6414",
+    "name": "樺漢",
+    "market": "TWSE",
+    "foreign_ratio": 23.14,
+    "trust_ratio": 5.42534549292379,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 28.56534549292379,
+    "three_inst_ratio_change_20": 0.6392778551534057
   }
 ]

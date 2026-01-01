@@ -823,5 +823,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 45.71850234800523,
     "three_inst_ratio_change_20": -1.1601990188916957
+  },
+  {
+    "date": "2025-12-31",
+    "code": "9802",
+    "name": "鈺齊-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.29,
+    "trust_ratio": 2.4435763565190083,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.73357635651901,
+    "three_inst_ratio_change_20": -1.1610460679632268
   }
 ]
