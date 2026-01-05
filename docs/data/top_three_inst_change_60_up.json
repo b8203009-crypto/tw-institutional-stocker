@@ -1183,17 +1183,17 @@
     "change": 1.7200000000000002
   },
   {
-    "code": "3356",
-    "name": "奇偶",
-    "market": "TWSE",
-    "three_inst_ratio": 5.37,
-    "change": 1.71
-  },
-  {
     "code": "2406",
     "name": "國碩",
     "market": "TWSE",
     "three_inst_ratio": 8.67,
+    "change": 1.71
+  },
+  {
+    "code": "3356",
+    "name": "奇偶",
+    "market": "TWSE",
+    "three_inst_ratio": 5.37,
     "change": 1.71
   },
   {
@@ -1211,15 +1211,15 @@
     "change": 1.6851688724446525
   },
   {
-    "code": "1516",
-    "name": "川飛",
+    "code": "1323",
+    "name": "永裕",
     "market": "TWSE",
     "three_inst_ratio": 1.68,
     "change": 1.68
   },
   {
-    "code": "1323",
-    "name": "永裕",
+    "code": "1516",
+    "name": "川飛",
     "market": "TWSE",
     "three_inst_ratio": 1.68,
     "change": 1.68
@@ -1337,15 +1337,15 @@
     "change": 1.4202281679260427
   },
   {
-    "code": "1423",
-    "name": "利華",
+    "code": "6792",
+    "name": "詠業",
     "market": "TWSE",
     "three_inst_ratio": 1.4,
     "change": 1.4
   },
   {
-    "code": "6792",
-    "name": "詠業",
+    "code": "1423",
+    "name": "利華",
     "market": "TWSE",
     "three_inst_ratio": 1.4,
     "change": 1.4

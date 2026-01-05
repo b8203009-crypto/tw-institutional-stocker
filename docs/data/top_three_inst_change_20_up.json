@@ -665,17 +665,17 @@
     "change": 0.74
   },
   {
-    "code": "1587",
-    "name": "吉茂",
-    "market": "TWSE",
-    "three_inst_ratio": 21.7,
-    "change": 0.7300000000000004
-  },
-  {
     "code": "00681R",
     "name": "元大美債20反1",
     "market": "TWSE",
     "three_inst_ratio": 11.5,
+    "change": 0.7300000000000004
+  },
+  {
+    "code": "1587",
+    "name": "吉茂",
+    "market": "TWSE",
+    "three_inst_ratio": 21.7,
     "change": 0.7300000000000004
   },
   {
@@ -910,17 +910,17 @@
     "change": 0.5128536394928034
   },
   {
-    "code": "6834",
-    "name": "天二科技",
-    "market": "TWSE",
-    "three_inst_ratio": 11.06,
-    "change": 0.5099999999999998
-  },
-  {
     "code": "3437",
     "name": "榮創",
     "market": "TWSE",
     "three_inst_ratio": 5.58,
+    "change": 0.5099999999999998
+  },
+  {
+    "code": "6834",
+    "name": "天二科技",
+    "market": "TWSE",
+    "three_inst_ratio": 11.06,
     "change": 0.5099999999999998
   },
   {
@@ -966,17 +966,17 @@
     "change": 0.4600000000000004
   },
   {
-    "code": "00762",
-    "name": "元大全球AI",
-    "market": "TWSE",
-    "three_inst_ratio": 3.4571577847439916,
-    "change": 0.45999999999999996
-  },
-  {
     "code": "3528",
     "name": "安馳",
     "market": "TWSE",
     "three_inst_ratio": 3.3,
+    "change": 0.45999999999999996
+  },
+  {
+    "code": "00762",
+    "name": "元大全球AI",
+    "market": "TWSE",
+    "three_inst_ratio": 3.4571577847439916,
     "change": 0.45999999999999996
   },
   {
@@ -1106,17 +1106,17 @@
     "change": 0.3987326636424102
   },
   {
-    "code": "3047",
-    "name": "訊舟",
-    "market": "TWSE",
-    "three_inst_ratio": 2.54,
-    "change": 0.3900000000000001
-  },
-  {
     "code": "00651R",
     "name": "復華香港反1",
     "market": "TWSE",
     "three_inst_ratio": 2.52,
+    "change": 0.3900000000000001
+  },
+  {
+    "code": "3047",
+    "name": "訊舟",
+    "market": "TWSE",
+    "three_inst_ratio": 2.54,
     "change": 0.3900000000000001
   },
   {
@@ -1288,17 +1288,17 @@
     "change": 0.32000000000000006
   },
   {
-    "code": "5285",
-    "name": "界霖",
-    "market": "TWSE",
-    "three_inst_ratio": 2.17,
-    "change": 0.31999999999999984
-  },
-  {
     "code": "3003",
     "name": "健和興",
     "market": "TWSE",
     "three_inst_ratio": 3.5,
+    "change": 0.31999999999999984
+  },
+  {
+    "code": "5285",
+    "name": "界霖",
+    "market": "TWSE",
+    "three_inst_ratio": 2.17,
     "change": 0.31999999999999984
   },
   {
@@ -1379,10 +1379,10 @@
     "change": 0.29368853176850607
   },
   {
-    "code": "00983A",
-    "name": "主動中信ARK創新",
+    "code": "9902",
+    "name": "台火",
     "market": "TWSE",
-    "three_inst_ratio": 1.69,
+    "three_inst_ratio": 2.69,
     "change": 0.29000000000000004
   },
   {

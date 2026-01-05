@@ -1120,17 +1120,17 @@
     "change": -0.9313091614647995
   },
   {
-    "code": "3714",
-    "name": "富采",
-    "market": "TWSE",
-    "three_inst_ratio": 12.819438756346278,
-    "change": -0.9199999999999999
-  },
-  {
     "code": "3704",
     "name": "合勤控",
     "market": "TWSE",
     "three_inst_ratio": 8.2,
+    "change": -0.9199999999999999
+  },
+  {
+    "code": "3714",
+    "name": "富采",
+    "market": "TWSE",
+    "three_inst_ratio": 12.819438756346278,
     "change": -0.9199999999999999
   },
   {
@@ -1365,17 +1365,17 @@
     "change": -0.7484726738453968
   },
   {
-    "code": "4526",
-    "name": "東台",
-    "market": "TWSE",
-    "three_inst_ratio": 4.5,
-    "change": -0.7400000000000002
-  },
-  {
     "code": "2511",
     "name": "太子",
     "market": "TWSE",
     "three_inst_ratio": 2.9,
+    "change": -0.7400000000000002
+  },
+  {
+    "code": "4526",
+    "name": "東台",
+    "market": "TWSE",
+    "three_inst_ratio": 4.5,
     "change": -0.7400000000000002
   },
   {
