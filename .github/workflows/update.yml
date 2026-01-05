@@ -2,7 +2,7 @@ name: Update TW Institutional Data
 
 on:
   schedule:
-    - cron: "10 0 * * *"  # 00:10 UTC ~ 08:10 Taipei
+    - cron: "50 23 * * *"  # 23:50 UTC ~ 07:50 Taipei
   workflow_dispatch: {}
 
 permissions:
