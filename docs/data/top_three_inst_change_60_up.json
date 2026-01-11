@@ -364,17 +364,17 @@
     "change": 4.780000000000001
   },
   {
-    "code": "00961",
-    "name": "FT臺灣永續高息",
-    "market": "TWSE",
-    "three_inst_ratio": 8.46,
-    "change": 4.74
-  },
-  {
     "code": "2478",
     "name": "大毅",
     "market": "TWSE",
     "three_inst_ratio": 10.92,
+    "change": 4.74
+  },
+  {
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "three_inst_ratio": 8.46,
     "change": 4.74
   },
   {
@@ -1358,17 +1358,17 @@
     "change": 1.0027485637813136
   },
   {
-    "code": "00642U",
-    "name": "期元大S&P石油",
-    "market": "TWSE",
-    "three_inst_ratio": 1.44,
-    "change": 1.0
-  },
-  {
     "code": "00930",
     "name": "永豐ESG低碳高息",
     "market": "TWSE",
     "three_inst_ratio": 1.76,
+    "change": 1.0
+  },
+  {
+    "code": "00642U",
+    "name": "期元大S&P石油",
+    "market": "TWSE",
+    "three_inst_ratio": 1.44,
     "change": 1.0
   },
   {
