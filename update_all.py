@@ -586,6 +586,11 @@ def build_estimated_holdings(
 
 
 def add_change_metrics(merged: pd.DataFrame, windows: list[int]) -> pd.DataFrame:
+    # --- 新增這段防錯檢查 ---
+    if merged is None or merged.empty or "code" not in merged.columns:
+        print("⚠️ 警告: merged 資料為空或缺少 'code' 欄位（可能因休市導致抓取失敗），跳過計算。")
+        return merged
+    # -----------------------
     merged = merged.sort_values(["code", "date"])
 
     def add_all(group: pd.DataFrame) -> pd.DataFrame:
