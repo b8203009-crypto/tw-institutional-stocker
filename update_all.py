@@ -464,9 +464,19 @@ def append_history(df_new: pd.DataFrame, path: str, key_cols: list[str]) -> pd.D
 # ---------- model: holdings estimation ----------
 
 def build_foreign_master(twse: pd.DataFrame, tpex: pd.DataFrame) -> pd.DataFrame:
-    all_df = pd.concat([twse, tpex], ignore_index=True)
-    if all_df.empty:
-        return all_df
+    # 1. 確保只合併非空的 DataFrame
+    dfs = [df for df in [twse, tpex] if df is not None and not df.empty]
+    if not dfs:
+        return pd.DataFrame()
+        
+    all_df = pd.concat(dfs, ignore_index=True)
+    
+    # 2. 關鍵加固：檢查必要的欄位是否存在
+    if "code" not in all_df.columns or "date" not in all_df.columns:
+        print("⚠️ 警告: 外資持股資料缺少 code 或 date 欄位（可能因休市導致資料異常），跳過處理。")
+        return pd.DataFrame()
+
+    # 3. 欄位存在才進行排序與處理
     all_df = all_df.sort_values(["code", "date"])
     all_df["date"] = pd.to_datetime(all_df["date"]).dt.date
     all_df = (
@@ -484,6 +494,12 @@ def build_estimated_holdings(
     foreign_master: pd.DataFrame,
     baseline: pd.DataFrame | None = None,
 ) -> pd.DataFrame:
+    # --- 新增防錯 ---
+    if flows.empty or foreign_master.empty or 'code' not in flows.columns:
+        print("⚠️ 警告: 流程或外資資料不足，無法建立估計模型。")
+        return pd.DataFrame()
+    # ----------------
+    
     """建立三大法人持股估計，支援 baseline 校正。"""
     flows = flows.copy()
     flows["date"] = pd.to_datetime(flows["date"]).dt.date
